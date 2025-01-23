@@ -16,7 +16,11 @@
 |------------------|----------|
 | Ensemble Model  | 0.69   |
 
-   
+## Workflow
+![image](https://github.com/user-attachments/assets/22588443-b90d-42e2-a20d-365d64b8064c)
+
+## Problem
+
 ![image](https://github.com/user-attachments/assets/41234f3d-e08e-4931-9949-545c512df649)
 
 
