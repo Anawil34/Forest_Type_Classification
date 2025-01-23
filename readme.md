@@ -15,7 +15,9 @@
 | Model           | Accuracy |
 |------------------|----------|
 | Ensemble Model  | 0.69   |
+
    
+![image](https://github.com/user-attachments/assets/41234f3d-e08e-4931-9949-545c512df649)
 
 
 ![alt text](image.png)
