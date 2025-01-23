@@ -10,6 +10,11 @@
    - Xgboost
    - Lightboost
    - Catboost
+
+## Evaluation
+| Model           | Accuracy |
+|------------------|----------|
+| Ensemble Model  | 0.69   |
    
 
 
