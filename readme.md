@@ -10,7 +10,7 @@
    - Xgboost
    - Lightboost
    - Catboost
-   - 
+   
 
 
 ![alt text](image.png)
